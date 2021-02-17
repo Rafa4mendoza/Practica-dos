@@ -50,10 +50,12 @@ article{
 }
 
 .estrofa{
+    font-size: 25px;
+    color: rgb(0, 72, 100);
     margin-top: 10px;
     background-color: rgba(61, 249, 255, 0.616) ;
     height: auto;
-
+    
 }
 
 
